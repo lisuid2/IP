@@ -1,0 +1,36 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+47.242.66.212,8444,443,true,HKG,Asia Pacific,HK,Hong Kong,34,10.30
+47.239.51.97,443,443,true,HKG,Asia Pacific,HK,Hong Kong,32,8.88
+47.79.33.117,52311,443,true,NRT,Asia Pacific,JP,Tokyo,88,1.57
+47.76.35.146,80,443,true,HKG,Asia Pacific,HK,Hong Kong,37,0.99
+47.91.18.127,443,443,true,SEA,North America,US,Seattle,84,0.71
+8.220.213.84,9001,443,true,ICN,Asia Pacific,KR,Seoul,112,0.52
+47.236.60.3,443,443,true,SIN,Asia Pacific,SG,Singapore,71,0.36
+47.242.145.136,8001,8443,true,HKG,Asia Pacific,HK,Hong Kong,35,0.29
+8.219.182.180,443,443,true,SIN,Asia Pacific,SG,Singapore,109,0.25
+8.219.198.255,443,443,true,SIN,Asia Pacific,SG,Singapore,107,0.25
+8.222.145.68,443,443,true,SIN,Asia Pacific,SG,Singapore,70,0.20
+47.74.254.191,8900,443,true,SIN,Asia Pacific,SG,Singapore,77,0.18
+47.251.74.98,49200,443,true,SJC,North America,US,San Jose,236,0.17
+8.218.110.219,8447,443,true,HKG,Asia Pacific,HK,Hong Kong,32,0.17
+47.238.105.180,12198,443,true,HKG,Asia Pacific,HK,Hong Kong,31,0.17
+8.218.152.147,587,443,true,HKG,Asia Pacific,HK,Hong Kong,34,0.16
+47.243.254.159,587,443,true,HKG,Asia Pacific,HK,Hong Kong,32,0.15
+47.79.88.27,443,443,true,SJC,North America,US,San Jose,85,0.14
+8.219.169.154,443,443,true,SIN,Asia Pacific,SG,Singapore,107,0.13
+47.79.35.89,443,443,true,NRT,Asia Pacific,JP,Tokyo,84,0.08
+8.222.192.60,30021,443,true,SIN,Asia Pacific,SG,Singapore,70,0.05
+47.236.181.185,8443,443,true,SIN,Asia Pacific,SG,Singapore,71,0.05
+47.243.138.97,587,443,true,HKG,Asia Pacific,HK,Hong Kong,93,0.05
+8.222.159.134,12314,443,true,SIN,Asia Pacific,SG,Singapore,65,0.03
+8.219.126.137,491,443,true,SIN,Asia Pacific,SG,Singapore,70,0.03
+47.236.252.30,587,443,true,SIN,Asia Pacific,SG,Singapore,71,0.03
+8.210.213.159,587,443,true,HKG,Asia Pacific,HK,Hong Kong,122,0.02
+47.254.88.5,587,443,true,SJC,North America,US,San Jose,238,0.02
+47.236.19.88,443,443,true,SIN,Asia Pacific,SG,Singapore,70,0.02
+47.88.24.237,10444,443,true,SJC,North America,US,San Jose,236,0.02
+47.88.24.237,10443,443,true,SJC,North America,US,San Jose,236,0.02
+8.222.178.214,6666,443,true,SIN,Asia Pacific,SG,Singapore,71,0.01
+8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,70,0.01
+8.216.121.234,51922,443,true,NRT,Asia Pacific,JP,Tokyo,85,0.00
+47.76.62.98,587,443,true,HKG,Asia Pacific,HK,Hong Kong,29,0.00
